@@ -25,7 +25,6 @@ Il bottone in alto consente l'importazione di un CSV file. Avvenuta l'importazio
 Il bottone "Create GPKG File" esporterà un GPKG File e aggiungerà un nuovo layer alla mappa, utilizzabile per le operazioni nei tabs 1. e 2.
 
 # Note e Avvertenze
-- Nella cartella sample_data del progetto si trovano un file CSV e uno GPKG, che sono stati impiegati per lo sviluppo del plugin. In particolare il file GPKG è stato ottenuto usando il "CSV to Geopackage file Tool". Il CSV è stato tratto dal dataset utilizzato per la pubblicazione "Planning a novel regional methane network: Demand forecasting and economic evaluation" di T. Barbiero e C. Grillenzoni
 - Si sconsiglia al momento di importare nel plugin CSV o file geografici con dati mancanti o NULL, perché non verranno gestiti per le analisi di regressione. Si potranno introdurre strategie per risolvere il problema, come eliminare le righe con dati mancanti, oppure utilizzare questo stesso plugin per fornire stime di regressione per questi dati, e/o utilizzare algoritmi di interpolazione spaziale
 
 
