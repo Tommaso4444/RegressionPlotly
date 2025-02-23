@@ -1,5 +1,5 @@
 # RegressionPlotly
-Plugin QGIS Plugin che offfre analisi spaziali tramite modelli di regressione
+Plugin QGIS Plugin che offre analisi spaziali tramite modelli di regressione
 
 Nella sua prima versione il plugin QGIS RegressionPlotly si compone di tre tabs all'interno di un dock:
 1. Scatter Plot tab: disegna uno scatterplot selezionando due variabili da uno Shapefile o GPKG file
